@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520473415918",
+    "project_id": "risetchatapp-4c00b",
+    "storage_bucket": "risetchatapp-4c00b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520473415918:android:b5c9d72b54b1f0d9ce63ff",
+        "android_client_info": {
+          "package_name": "com.example.riset_chatapp_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520473415918-a4pu7eatq14lo0sjsj3tci42pl8s8cln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr0WKGpLu0rnlONMWJnjsDKYHLhkf4ok0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520473415918-a4pu7eatq14lo0sjsj3tci42pl8s8cln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
